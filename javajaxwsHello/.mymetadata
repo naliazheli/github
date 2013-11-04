@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="javajaxwsHello"
+  id="myeclipse.1379753577121"
+  context-root="/javajaxwsHello"
+  j2ee-spec="5.0"
+  archive="javajaxwsHello.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
